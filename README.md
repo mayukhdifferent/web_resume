@@ -1,2 +1,5 @@
 # web_resume
-web resume inspired from pascal van gemert interactive resume.
+Design Inspired from Pascal van Gemert.
+Site hosted freely using 000 webhosting.
+Free DNS and Mail Server from FreeNOM
+Images from Gifly, Stockphotos and BestAnimations.com
